@@ -14,13 +14,9 @@
   },
   "author": "",
   "license": "MIT",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5",
-    "nodemon": "^1.9.1"
-  },
+  "devDependencies": {},
   "dependencies": {
     "bluebird": "^3.3.5",
-    "liquid-node": "^2.6.1"
+    "liquid": "^4.0.0"
   }
 }

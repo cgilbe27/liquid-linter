@@ -1,6 +1,0 @@
-{% section %}
-## hero
-{% endsection %}
-
-
-{% endsection %}
